@@ -93,13 +93,14 @@ ul {
 
 .header-list {
   display: flex;
+  gap: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-item {
   display: flex;
   margin-right: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-link {
@@ -416,13 +417,13 @@ img {
 
 .portfolio-header {
   border-bottom: 1px solid #e7e9fc;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .portfolio-header-navigation {
   display: flex;
   align-items: center;
   flex-grow: 1;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 .header-logo {
   font-family: Raleway, sans-serif;
