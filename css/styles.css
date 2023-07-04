@@ -568,6 +568,7 @@ img {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  padding-left: 0;
 }
 .list {
 }
@@ -576,7 +577,6 @@ img {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  padding-left: 0;
 }
 
 .portfolio-item {
